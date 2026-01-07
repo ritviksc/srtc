@@ -1,2 +1,3 @@
 # srtc
-Simple runtime library in C for Linux systems.
+Simple runtime library in C for Linux systems ensuring portability.
+Work in progress...
