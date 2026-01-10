@@ -56,3 +56,5 @@ __syscall5:
     mov %r9, %r8
     syscall
     ret
+
+.section .note.GNU-stack,"",@progbits

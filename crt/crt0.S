@@ -13,3 +13,5 @@ _start:
     mov %rax, %rdi
     xor %eax, %eax
     call exit
+
+.section .note.GNU-stack,"",@progbits
